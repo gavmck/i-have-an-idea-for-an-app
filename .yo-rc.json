@@ -3,6 +3,8 @@
     "presentationTitle": "I've got an idea for an app",
     "packageVersion": "0.0.0",
     "useSass": true,
-    "deployToGithubPages": false
+    "deployToGithubPages": true,
+    "githubUsername": "gavmck",
+    "githubRepository": "i-have-an-idea-for-an-app"
   }
 }
