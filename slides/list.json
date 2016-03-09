@@ -16,10 +16,50 @@
         "77-loss-of-daily-users-in-3-days.html",
         "80-of-all-users-gone-in-3-weeks.html"
     ],
-    "if-all-you-have-is-a-hammer.html",
-    "houston-we-have-a-problem.html",
-    "use-users-usefully.html",
-    "eureka-i-have-solved-it.html",
-    "tech-talk.html",
-    "you-re-the-real-mvp.html"
+    [
+        "if-all-you-have-is-a-hammer.html",
+        "how-many-have-a-list-of-ideas.html",
+        "how-many-have-a-list-of-problems.html",
+        "everything-is-just-a-tool.html",
+        "nobody-wants-an-app.html"
+    ],
+    [
+        "houston-we-have-a-problem.html",
+        "make-better-lives-not-features.html",
+        "what-are-you-trying-to-solve.html",
+        "is-it-a-tier-1-problem.html",
+        "how-is-it-currently-solved.html",
+        "what-are-the-metrics-of-success.html"
+    ],
+    [
+        "use-users-usefully.html",
+        "do-user-research.html",
+        "observe.html",
+        "listen.html",
+        "notice.html",
+        "gather.html",
+        "interpret.html",
+        "conducting-user-interviews.html"
+    ],
+    [
+        "eureka-i-have-solved-it.html",
+        "you-ve-got-a-problem.html",
+        "a-bunch-of-people-are-experiencing-it.html",
+        "it-s-a-tier-1-problem.html",
+        "they-want-to-give-you-money-for-a-solution.html",
+        "you-have-a-solution-that-beats-the-current-oneby-20.html"
+    ],
+    [
+        "tech-talk.html",
+        "i-o.html",
+        "which-device-serves-best.html",
+        "requirements-drive-solutions.html"
+    ],
+    [
+        "you-re-the-real-mvp.html",
+        "minimum-viable-product.html",
+        "instagram-twitter-snapchat.html",
+        "focused-short-interactions.html",
+        "1-2-screens.html"
+    ]
 ]
