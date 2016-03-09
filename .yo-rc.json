@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "I've got an idea for an app",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}
