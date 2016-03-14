@@ -17,48 +17,59 @@
         "80-of-all-users-gone-in-3-weeks.html"
     ],
     [
-        "if-all-you-have-is-a-hammer.html",
+        "what-the-hell-is-an-app-anyway.html"
+    ],
+    [
+        "apps-are-tools.html",
         "how-many-have-a-list-of-ideas.html",
         "how-many-have-a-list-of-problems.html",
-        "nobody-wants-an-app.html"
+        "nobody-wants-an-app.html",
+        "what-about-games.html"
     ],
     [
         "houston-we-have-a-problem.html",
-        "make-better-lives-not-features.html",
-        "what-are-you-trying-to-solve.html",
-        "is-it-a-tier-1-problem.html",
-        "how-is-it-currently-solved.html",
-        "what-are-the-metrics-of-success.html"
+        "i-have-a-problem.html",
+        "other-people-have-a-problem.html",
+        "has-the-problem-been-solved.html"
     ],
     [
-        "use-users-usefully.html",
-        "do-user-research.html",
-        "observe.html",
-        "listen.html",
-        "notice.html",
-        "gather.html",
-        "interpret.html",
-        "conducting-user-interviews.html"
-    ],
-    [
-        "eureka-i-have-solved-it.html",
-        "you-ve-got-a-problem.html",
-        "a-bunch-of-people-are-experiencing-it.html",
-        "it-s-a-tier-1-problem.html",
-        "they-want-to-give-you-money-for-a-solution.html",
-        "you-have-a-solution-that-beats-the-current-oneby-20.html"
-    ],
-    [
+        "how-could-you-solve-the-problem.html",
         "tech-talk.html",
-        "i-o.html",
-        "which-device-serves-best.html",
-        "requirements-drive-solutions.html"
+        "similar-solutions.html",
+        "can-you-do-better.html",
+        "metrics-for-success.html",
+        "pivot-pivot-pivot.html"
     ],
     [
-        "you-re-the-real-mvp.html",
-        "minimum-viable-product.html",
-        "instagram-twitter-snapchat.html",
-        "focused-short-interactions.html",
-        "1-2-screens.html"
+        "is-there-a-market-for-solving-this-problem.html",
+        "niche-problems.html",
+        "tier-1-problems.html",
+        "would-people-pay.html",
+        "use-users-usefully.html"
+    ],
+    [
+        "refine-the-solution.html",
+        "determine-the-audience.html",
+        "core-experience.html",
+        "launch-needs.html",
+        "growing-needs.html"
+    ],
+    [
+        "is-it-worth-it.html",
+        "mvp-mmp-mlp.html",
+        "gambling.html",
+        "what-is-success.html",
+        "discoverability.html",
+        "time-value.html"
+    ],
+    [
+        "great.html",
+        "build-test-learn-repeat.html"
+    ],
+    [
+        "conclusion.html"
+    ],
+    [
+        "i-have-a-problem-to-solve.html"
     ]
 ]
